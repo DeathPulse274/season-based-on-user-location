@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Dependencies
+
+https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+
+https://cdnjs.com/libraries/semantic-ui
