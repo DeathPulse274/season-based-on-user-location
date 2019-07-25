@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/season-based-on-user-location/static/js/main.8b5c469f.chunk.js",
+    "main.js.map": "/season-based-on-user-location/static/js/main.8b5c469f.chunk.js.map",
+    "runtime~main.js": "/season-based-on-user-location/static/js/runtime~main.725bf245.js",
+    "runtime~main.js.map": "/season-based-on-user-location/static/js/runtime~main.725bf245.js.map",
+    "static/js/2.2050718e.chunk.js": "/season-based-on-user-location/static/js/2.2050718e.chunk.js",
+    "static/js/2.2050718e.chunk.js.map": "/season-based-on-user-location/static/js/2.2050718e.chunk.js.map",
+    "index.html": "/season-based-on-user-location/index.html",
+    "precache-manifest.ea983a86076d81771aea2216b531f641.js": "/season-based-on-user-location/precache-manifest.ea983a86076d81771aea2216b531f641.js",
+    "service-worker.js": "/season-based-on-user-location/service-worker.js"
+  }
+}
