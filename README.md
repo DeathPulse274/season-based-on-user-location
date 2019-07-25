@@ -72,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
 
 https://cdnjs.com/libraries/semantic-ui
+
+### Project Hosted
+
+https://deathpulse274.github.io/season-based-on-user-location/
