@@ -1,5 +1,6 @@
 import React from 'react';
 
+//Can avoid Multple Ternary Operator by using season Config
 const seasonConfig = {
     summer : {
         text : "let's hit the beach!",
@@ -7,7 +8,7 @@ const seasonConfig = {
     },
     winter : {
         text : 'Burr its Cold',
-        iconName : 'snowwflake'
+        iconName : 'snowflake'
     }
 }
 
@@ -22,6 +23,8 @@ const getSeason = (lat , month) =>{
 
 const SeasonDisplay = (props) =>{
     const season = getSeason(props.latitude,new Date().getMonth());
+
+    //acts as ternari operator which takes input as season and returns appropriate value getSeason () => String shouuld be same [summer,winter]
      const {text , iconName} =seasonConfig[season] //{ text , iconName }
 
     console.log(season);
