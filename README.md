@@ -73,6 +73,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
 
 https://cdnjs.com/libraries/semantic-ui
 
+npm run deploy
+
 ### Project Hosted
 
 https://deathpulse274.github.io/season-based-on-user-location/
